@@ -14,9 +14,6 @@ In addition, there are a list of verb overview files, one for each Chinese verb.
 They indicate what frames a Chinese verb can take and give examples. They are
 meant to be viewed in a browser.
 
-**New**: You can also directly browse the superset of
-[**Chinese verbs**](http://alanakbik.github.io/UniversalPropositions_Chinese/).
-
 ## Known issues
 
 The Chinese UP is currently believed to be of lower quality than the other UPs.
